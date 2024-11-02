@@ -1,14 +1,42 @@
 *{
+    padding: 0;
+    margin: 0;
     text-align: center;
 }
 
 .intro{
     background-color: black;
     color: white;
-    height: 60%;
+    height: 300px;
     width: 100%; 
 }
 
-.intto h1{
-    padding: 10px;
+.intro h1{
+   padding-top: 30px ;
+   margin-left: 30px;
+   text-align: left;
+   font-size: 40px;
 }
+
+.intro p{
+    display: flex;
+    margin-left: 30px;
+}
+
+.strt{
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    height: 40px;
+    width: 150px;
+}
+
+.strt:hover{
+    color: whitesmoke;
+}
+
