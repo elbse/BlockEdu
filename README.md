@@ -1,4 +1,4 @@
-# Web3 Educational Platform
+# Web3 Educational Platform - BlockEdu
 
  Decode the Future of Web3
  Learn blockchain technology, smart contracts, and DApp development through our comprehensive educational platform.
