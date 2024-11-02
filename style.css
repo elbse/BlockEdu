@@ -1,0 +1,14 @@
+*{
+    text-align: center;
+}
+
+.intro{
+    background-color: black;
+    color: white;
+    height: 60%;
+    width: 100%; 
+}
+
+.intto h1{
+    padding: 10px;
+}
