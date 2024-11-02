@@ -5,9 +5,9 @@
 
 ## Features
 
--Blockchain Fundamentals: Understand distributed ledger technology and cryptocurrencies.
--Smart Contracts: Learn to write and deploy secure smart contracts.
--DApp Development: Build decentralized applications using blockchain technology.
+- **Blockchain Fundamentals:** Understand distributed ledger technology and cryptocurrencies.
+- **Smart Contracts:** Learn to write and deploy secure smart contracts.
+- **DApp Development:** Build decentralized applications using blockchain technology.
 
 ## Status
 
