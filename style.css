@@ -25,7 +25,7 @@
     display: center;
     margin-left: 30px;
     font-weight: bold;
-    margin: 20px;
+    margin: 30px;
 }
 
 .strt{
@@ -70,7 +70,21 @@
 
 .ratings ul{
     
+    height: 80px;
+    padding: 20px 50px;
+    text-align: center;
     display: inline-block;
+    columns: 10px 4;
+    margin: 20px auto;
+}
+
+.ratings p{
+    height: 80px;
+    padding: 20px 50px;
+    text-align: center;
+    display: inline-block;
+    columns: 10px 4;
+    margin: 20px auto; 
 }
 
 .course{
@@ -99,4 +113,13 @@
 .exp:hover{
     background-color: grey;
     color: black;
+}
+
+.footer{
+    margin: auto;
+    padding: 30px;
+}
+
+.footer h3{
+    font-size: 30px;
 }
