@@ -16,7 +16,6 @@
 
 .intro h1{
    padding-top: 30px ;
-    
    text-align: center;
    font-size: 40px;
 }
@@ -64,8 +63,15 @@
 .ratings{
     color: white;
     background-color: black;
-    padding: 30px 30px;
+    height: 100px;
+    padding: 30px 50px;
+    text-align: center;
+    display: inline-block;
     columns: 100px 4;
+    margin: 10px auto;
+    text-align: center;
+    
+    
 }
 
 .ratings ul{
