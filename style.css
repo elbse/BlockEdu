@@ -63,35 +63,24 @@
 .ratings{
     color: white;
     background-color: black;
+    width: 100%;
     height: 100px;
     padding: 30px 50px;
     text-align: center;
     display: inline-block;
     columns: 100px 4;
     margin: 10px auto;
-    text-align: center;
-    
-    
+    text-align: center; 
 }
 
-.ratings ul{
-    
-    height: 80px;
-    padding: 20px 50px;
-    text-align: center;
-    display: inline-block;
-    columns: 10px 4;
-    margin: 20px auto;
+
+.AL {
+    height: 20px;
+    row-gap: 8px;
+    column-gap: 16px;
 }
 
-.ratings p{
-    height: 80px;
-    padding: 20px 50px;
-    text-align: center;
-    display: inline-block;
-    columns: 10px 4;
-    margin: 20px auto; 
-}
+
 
 .course{
     padding: 30px 30px;
