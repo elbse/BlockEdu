@@ -76,14 +76,17 @@
 
 .AL {
     height: 20px;
-    row-gap: 8px;
-    column-gap: 16px;
+    row-gap: 10px;
+    column-gap: 20px;
+    display: inline-block;
+    padding: 15x 0;
 }
 
 
 
 .course{
     padding: 30px 30px;
+    height: 100px;
 }
 
 .footer{
