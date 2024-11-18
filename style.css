@@ -46,19 +46,20 @@
     color: black;
 }
 
-.offers{
-    height: 80px;
-    padding: 30px 50px;
-    text-align: center;
-    display: inline-block;
-    columns: 100px 4;
-    margin: 10px auto;
-
-}
-
 .offers ul{
-   margin-left: 50%;
+    display: flex;
+
 }
+
+.offers ul li{
+    list-style-type: none;
+    font-weight: 500;
+    color: #fff;
+    padding-bottom: 15px;
+    margin: 0 25px;
+}
+
+
 
 .ratings{
     color: white;
