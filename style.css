@@ -52,11 +52,13 @@
 }
 
 .offers ul li{
+    display: flex;
     list-style-type: none;
+    text-align: center;
     font-weight: 500;
-    color: #fff;
+    color: black;
     padding-bottom: 15px;
-    margin: 0 25px;
+    margin: 50px 25px;
 }
 
 
@@ -89,13 +91,7 @@
 
 .course{
     padding: 30px 30px;
-    height: 100px;
-}
-
-.footer{
-    color: white;
-    background-color: black;
-    padding: 20px 20px;
+    height: 150px;
 }
 
 .exp{
@@ -119,9 +115,13 @@
 .footer{
     margin: auto;
     padding:30px;
-    height: 90px;
+    height: 130px;
+    color: white;
+    background-color: black;
+    padding: 20px 20px;
 }
 
 .footer h3{ 
+    margin-top: 60px;
     font-size: 30px;
 }
