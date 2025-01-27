@@ -15,7 +15,7 @@
 }
 
 .intro h1{
-   padding-top: 30px ;
+   padding-top: 60px ;
    text-align: center;
    font-size: 40px;
 }
@@ -66,6 +66,7 @@
     background-color: black;
     width: 94.555%;
     height: 100px;
+    padding-left: 20px;
     padding: 30px 50px;
     text-align: center;
     display: inline-block;
